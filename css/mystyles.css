@@ -1,0 +1,19 @@
+h2{
+    color: black;
+}
+
+.links{
+    text-decoration: underline;
+}
+
+.img1{
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center{
+    text-align: center;
+    color:darkred;
+}
